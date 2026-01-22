@@ -1,0 +1,113 @@
+[
+    {
+      "customer_id": "cust_001",
+      "first_name": "Sameer",
+      "last_name": "Sawant",
+      "email": "sameer.sawant@gmail.com",
+      "phone": "+91-9876543210",
+      "address": "Andheri East, Mumbai, India",
+      "date_of_birth": "1996-08-14",
+      "account_balance": 24500.75,
+      "created_at": "2023-02-01T10:15:30"
+    },
+    {
+      "customer_id": "cust_002",
+      "first_name": "Amit",
+      "last_name": "Sharma",
+      "email": "amit.sharma@yahoo.com",
+      "phone": "+91-9898989898",
+      "address": "Powai, Mumbai, India",
+      "date_of_birth": "1994-05-22",
+      "account_balance": 18990.50,
+      "created_at": "2023-02-10T11:00:00"
+    },
+    {
+      "customer_id": "cust_003",
+      "first_name": "Rohit",
+      "last_name": "Patil",
+      "email": "rohit.patil@outlook.com",
+      "phone": "+91-9765432101",
+      "address": "Baner, Pune, India",
+      "date_of_birth": "1992-11-30",
+      "account_balance": 9800.00,
+      "created_at": "2023-03-01T09:30:00"
+    },
+    {
+      "customer_id": "cust_004",
+      "first_name": "Sneha",
+      "last_name": "Joshi",
+      "email": "sneha.joshi@gmail.com",
+      "phone": "+91-9123456780",
+      "address": "Kothrud, Pune, India",
+      "date_of_birth": "1997-01-19",
+      "account_balance": 56000.25,
+      "created_at": "2023-03-10T13:20:00"
+    },
+    {
+      "customer_id": "cust_005",
+      "first_name": "Neha",
+      "last_name": "Kulkarni",
+      "email": "neha.kulkarni@gmail.com",
+      "phone": "+91-9000000001",
+      "address": "Indiranagar, Bengaluru, India",
+      "date_of_birth": "1995-07-05",
+      "account_balance": 4500.00,
+      "created_at": "2023-03-15T08:15:00"
+    },
+    {
+      "customer_id": "cust_006",
+      "first_name": "Rahul",
+      "last_name": "Verma",
+      "email": "rahul.verma@gmail.com",
+      "phone": "+91-9888777666",
+      "address": "Noida, Uttar Pradesh, India",
+      "date_of_birth": "1993-02-14",
+      "account_balance": 156000.75,
+      "created_at": "2023-03-18T14:45:00"
+    },
+    {
+      "customer_id": "cust_007",
+      "first_name": "Kunal",
+      "last_name": "Mehta",
+      "email": "kunal.mehta@gmail.com",
+      "phone": "+91-9011223344",
+      "address": "Bandra West, Mumbai, India",
+      "date_of_birth": "1990-09-12",
+      "account_balance": 22000.90,
+      "created_at": "2023-03-20T17:10:00"
+    },
+    {
+      "customer_id": "cust_008",
+      "first_name": "Anjali",
+      "last_name": "Nair",
+      "email": "anjali.nair@gmail.com",
+      "phone": "+91-9022334455",
+      "address": "Vashi, Navi Mumbai, India",
+      "date_of_birth": "1998-12-03",
+      "account_balance": 8900.25,
+      "created_at": "2023-03-25T09:40:00"
+    },
+    {
+      "customer_id": "cust_009",
+      "first_name": "Pratik",
+      "last_name": "Deshmukh",
+      "email": "pratik.deshmukh@gmail.com",
+      "phone": "+91-9898000009",
+      "address": "Nashik, Maharashtra, India",
+      "date_of_birth": "1991-04-21",
+      "account_balance": 13400.00,
+      "created_at": "2023-03-28T12:30:00"
+    },
+    {
+      "customer_id": "cust_010",
+      "first_name": "Pooja",
+      "last_name": "Singh",
+      "email": "pooja.singh@gmail.com",
+      "phone": "+91-9001234567",
+      "address": "Gurgaon, Haryana, India",
+      "date_of_birth": "1996-10-09",
+      "account_balance": 27500.75,
+      "created_at": "2023-04-01T11:50:00"
+    }
+  ]
+  
